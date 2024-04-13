@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountSystemUI", "AccountSystemUI.csproj", "{9BA32730-D12B-432E-8A85-7FD7C2E178F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BA32730-D12B-432E-8A85-7FD7C2E178F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BA32730-D12B-432E-8A85-7FD7C2E178F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BA32730-D12B-432E-8A85-7FD7C2E178F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BA32730-D12B-432E-8A85-7FD7C2E178F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A24B85-0446-4CE4-B269-E412AED18FE1}
+	EndGlobalSection
+EndGlobal

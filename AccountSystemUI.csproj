@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>DISAdisable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="UserAccountBusiness">
+      <HintPath>..\UserAccountDataServicesModel\UserAccountBusiness\bin\Debug\net8.0\UserAccountBusiness.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
